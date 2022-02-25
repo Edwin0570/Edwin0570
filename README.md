@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Edwin0570 Entry Level Jr Web Developer
 - 👀 I’m interested in ... Web Design | Python | JavaScript | WordPress | Django | PostgreSQL | Insomnia | Docker | AWS | Google Cloud | Azure 
-- 🌱 I’m currently learning ...Blender API | C++ | Angular | React Native
+- 🌱 I’m currently learning ...Google and Blender API's | C++ | Angular | React Native
 - 💞️ I’m looking to collaborate on ...WordPress | Relational Database | Debugging | Linux
 - 📫 How to reach me ...[email](rodriguezedwin10@yahoo.com)
 
