@@ -10,9 +10,8 @@
 - 💞️ I’m looking to collaborate on ...WordPress | Relational Database | Debugging | Linux
 - 📫 How to reach me ...[Website/Portfolio](https://www.hotrodcode.net)
 
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edwin0570&show_icons=true&theme=merko)
+
 <!---
 Edwin0570/Edwin0570 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
