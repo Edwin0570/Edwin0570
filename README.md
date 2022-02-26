@@ -4,7 +4,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Edwin0570/Edwin0570)
 
-- 👋 Hi, I’m @Edwin0570 Entry Level Jr Web Developer
+- 👋 Hi, I’m Edwin from Texas and Puerto Rico. I do content on Design and Web Development. I really enjoy learning languages and Web application frameworks like Python, JavaScript, CSS, and Django as well as work in WordPress. I also have experience on cloud platforms such as AWS, Google and Azure.
 - 👀 I’m interested in ... Web Design | Python | JavaScript | WordPress | Django | PostgreSQL | Insomnia | Docker | AWS | Google Cloud | Azure | Animation | Automation | Audio Engineering 
 - 🌱 I’m currently learning ...Google and Blender API's | C++ | Angular | React Native
 - 💞️ I’m looking to collaborate on ...WordPress | Relational Database | Debugging | Linux
