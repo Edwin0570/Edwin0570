@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/92768739/155819864-8f705a85-e6e4-4023-bd00-4168ea203fae.png)
+
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/Edwin0570/Edwin0570)
 
 - 👋 Hi, I’m @Edwin0570 Entry Level Jr Web Developer
