@@ -11,6 +11,7 @@
 - 📫 How to reach me ...[Website/Portfolio](https://www.hotrodcode.net)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edwin0570&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin0570)](https://github.com/Edwin0570/github-readme-stats)
 
 <!---
 Edwin0570/Edwin0570 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
